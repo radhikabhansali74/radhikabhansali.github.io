@@ -34,7 +34,5 @@
 - Vouching of primary books of accounts, confirmation of balances, verification of bank reconciliation statement, etc
 
 ## Achievements
-- **2018**: Received recognition from the leadership team (Executive Director, VP) for effectively managing a high volume of 1000 Japanese government bonds and on-time settlement of these trades by liaising with the settlement team and client service team.
-- **2020**: Assisted the senior executives in understanding and restructuring the report generation process, reducing the organizational costs and manual reporting.
-- **2022**: Received a spot award for effectively communicating Morgan Stanley's workplace policies.
-
+- Recognized with the GARGI PURUSKAR by the Rajasthan Government for outstanding academic achievement
+- Participated in multiple sessions held in the Enlighten Model United Nations (MUN) 2015, conducted by MUN World India
