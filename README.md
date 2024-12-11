@@ -1,6 +1,6 @@
 # Associate Finance/Equity Research
 
-#### Technical Skills: Microsoft Excel, Microsoft Powerpoint
+#### Technical Skills: Microsoft Excel, Microsoft Powerpoint, Microsoft Power BI
 
 ## Education							       		       		
 - B.Com (Hons.)| Jai Narayan Vyas University (JNVU) (_Jun 2019_)
